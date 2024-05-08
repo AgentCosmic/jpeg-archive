@@ -1,4 +1,7 @@
-JPEG Archive [![Build Status](http://img.shields.io/travis/danielgtaylor/jpeg-archive.svg?style=flat)](https://travis-ci.org/danielgtaylor/jpeg-archive) [![Build status](https://ci.appveyor.com/api/projects/status/1p7hrrq380xuqlyh?svg=true)](https://ci.appveyor.com/project/danielgtaylor/jpeg-archive) [![Version](http://img.shields.io/badge/version-2.2.0-blue.svg?style=flat)](https://github.com/danielgtaylor/jpeg-archive/releases) [![License](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](http://dgt.mit-license.org/)
+This is a very minor fork of [Daniel G Taylor's excellent jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) with two PRs applied so it compiles on modern gccs.  PR 121 and 128 are merged in here and we are back in business!
+
+
+JPEG Archive 
 ============
 Utilities for archiving photos for saving to long term storage or serving over the web. The goals are:
 
